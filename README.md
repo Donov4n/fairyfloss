@@ -1,4 +1,4 @@
-# fairyfloss theme
+# Cotton-Candy Theme
 
-![theme logo](http://sailorhg.github.io/fairyfloss/fairyfloss.png)
-![theme screenshot](http://sailorhg.github.io/fairyfloss/code.png)
+![](https://donov4n.github.io/cotton-candy/fairyfloss.png)
+![](https://donov4n.github.io/cotton-candy/images/code-preview.png)
