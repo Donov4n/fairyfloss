@@ -1,3 +1,6 @@
+v 0.1.1
+  - Fixed readme images on atom.io
+
 v 0.1.0
   - Added bracket background color on highlight.
   - Changed the comment color for a semi-transparent color.
