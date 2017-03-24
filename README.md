@@ -2,8 +2,8 @@
 
 > A cute pastel theme for Atom.
 
-![](https://donov4n.github.io/cotton-candy/images/cottoncandy.png)
-![](https://donov4n.github.io/cotton-candy/images/code-preview.png)
+![](./docs/images/cottoncandy.png)
+![](./docs/images/code-preview.png)
 
 ## Installation
 
