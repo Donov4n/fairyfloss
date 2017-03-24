@@ -24,7 +24,8 @@ atom-text-editor .wrap-guide {
 }
 
 atom-text-editor .indent-guide {
-    color: @syntax-indent-guide-color;
+    color      : @syntax-indent-guide-color;
+    box-shadow : inset 1px 0 lighten(@syntax-indent-guide-color, 2%);
 }
 
 atom-text-editor .invisible-character {
