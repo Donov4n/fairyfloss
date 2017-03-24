@@ -8,6 +8,6 @@
     "keywords"    : ["syntax", "theme"],
     "license"     : "MIT",
     "engines"     : {
-        "atom": ">=1.0.0 <2.0.0"
+        "atom": ">=1.13.0 <2.0.0"
     }
 }
