@@ -1,4 +1,4 @@
-v 0.1.0 (unreleased)
+v 0.1.0
   - Added bracket background color on highlight.
   - Changed the comment color for a semi-transparent color.
   - Indent guides color adjustement (lighten).
