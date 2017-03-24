@@ -3,26 +3,32 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width">
-        <title>Cotton Candy, a cute pastel theme</title>
+        <title>CottonCandy, a cute pastel theme</title>
         <link rel="stylesheet" href="stylesheet.css" type="text/css" />
     </head>
     <body>
-        <div class="title">
-            <img src="images/fairyfloss-alpha.png" width="800" />
+        <div class="layout">
+            <header class="layout__part header">
+                <img src="images/cottoncandy-alpha.png" width="800" class="header__logo" />
+            </header>
+            <div class="layout__part content">
+                <p class="content__block explanation">
+                    CottonCandy is a cute pastel theme for atom<br />
+                    <span class="explanation__origin">
+                        (forked from <a href="https://github.com/sailorhg/fairyfloss"/>fairyfloss</a>)
+                    </span>
+                </p>
+                <pre class="content__block installation">apm install cotton-candy</pre>
+                <div class="content__block screenshot">
+                    <img src="images/code-preview.png" height="493" width="800" class="screenshot__image" />
+                </div>
+            </div>
+            <footer class="layout__part footer">
+                <p class="footer__text">
+                    This theme is maintened by <a href="https://twitter.com/___Donovan___">Donov4n</a>
+                    and was originally created for you with ♥ by <a href="http://twitter.com/sailorhg">sailorhg</a>
+                </p>
+            </footer>
         </div>
-        <p class="explanation">
-            Cotton Candy is a cute pastel theme for atom forked from
-            <a href="https://github.com/sailorhg/fairyfloss"/>fairyfloss</a>.
-        </p>
-        <div class="screenshot">
-            <img src="images/code-preview.png" width="800" />
-        </div>
-        <div class="footer">
-            <p>
-                This theme is maintened by <a href="http://twitter.com/Donov4n">Donov4n</a>
-                and was originally created for you with ♥ by
-                <a href="http://twitter.com/sailorhg">sailorhg</a>
-            </p>
-        </div>
-  </body>
+    </body>
 </html>

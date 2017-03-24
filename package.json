@@ -1,6 +1,6 @@
 {
     "name"        : "cotton-candy",
-    "version"     : "0.0.0",
+    "version"     : "0.1.0",
     "theme"       : "syntax",
     "author"      : "Donovan Lambert <lambert.donovan@gmail.com>",
     "description" : "Cute pastel theme created with 🍬",
@@ -8,6 +8,6 @@
     "keywords"    : ["syntax", "theme"],
     "license"     : "MIT",
     "engines"     : {
-        "atom": ">=1.0.0 <2.0.0"
+        "atom": ">=1.13.0 <2.0.0"
     }
 }
